@@ -29,7 +29,7 @@ I recently completed an end-to-end data analytics project where I worked on data
 - Built an interactive Power BI dashboard
 - Derived actionable business insights
 
-👉 [View Project](your_github_project_link_here)
+👉 [View Project](https://github.com/Meenansh-Chauhan/Amazon_Product_Analysis)
 
 ---
 

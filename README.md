@@ -21,12 +21,29 @@ Currently targeting **Data Analyst and Business Analyst roles** at fintech and f
 |---|---|
 | **Languages & Querying** | Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL), AWS Athena |
 | **BI & Visualization** | Power BI, Tableau, Matplotlib, Seaborn, Excel (Pivot Tables, VLOOKUP) |
-| **Databases & Cloud** | PostgreSQL, AWS S3, AWS Athena, Git, GitHub |
+| **Databases & Cloud** | PostgreSQL, AWS S3, AWS Athena, Git, GitHub, RDBMS |
+| **Frontend** | React Native (hands-on UI development), HTML, CSS, JavaScript, Node.js |
 | **Analytics** | EDA, Customer Segmentation, RFM Analysis, KPI Tracking, Marketing Analytics |
+
+## 💻 Additional Technical Exposure
+- **React Native Developer Trainee** — Crudcook, Panjab University Incubation Center: built and optimized responsive UI components during an intensive cross-platform mobile development training program.
+- Working conceptual understanding of HTML, CSS, JavaScript, and Node.js, developed through coursework and applied during React Native training.
 
 ---
 
 ## 📌 Projects
+
+### 🏦 Fintech Marketing Campaign Analysis
+**Domain:** FinTech / Marketing Analytics | **Tools:** SQL (AWS Athena), AWS S3, Python, Power BI
+
+- Analyzed UCI Bank Marketing dataset (45K+ records) to identify factors driving term deposit conversion
+- Architected a cloud analytics pipeline on AWS S3 (data lake) and AWS Athena (serverless SQL)
+- Executed SQL-first analysis using CTEs, window functions, and aggregations across demographic and behavioral segments
+- Delivered numbered business recommendations on optimal contact windows and high-propensity customer profiles
+
+👉 [View Project](https://github.com/Meenansh-Chauhan/Fintech-Marketing-Campaign-Analysis)
+
+---
 
 ### 🏨 Hotel Booking Demand & Revenue Analysis
 **Domain:** Travel & Hospitality | **Tools:** Python, PostgreSQL, Power BI, REST API
@@ -35,6 +52,7 @@ Currently targeting **Data Analyst and Business Analyst roles** at fintech and f
 - Integrated Nager.Date REST API to tag public holidays and quantify seasonal demand uplift
 - Designed normalized PostgreSQL schema with window functions (RANK, LAG, LEAD) for time-series revenue analysis
 - Built an executive Power BI dashboard tracking 6+ KPIs including ADR, occupancy rate, and cancellation rate by segment
+- Leveraged AI-assisted tools (Claude, ChatGPT, Gemini) to support business framing and narrative structuring; data analysis, validation, and final recommendations were independently executed.
 
 👉 [View Project](https://github.com/Meenansh-Chauhan/Hotel-Booking-Analysis)
 
@@ -61,18 +79,6 @@ Currently targeting **Data Analyst and Business Analyst roles** at fintech and f
 - Identified pricing strategies modelled to improve revenue by 15–20% based on trend analysis
 
 👉 [View Project](https://github.com/Meenansh-Chauhan/Amazon_Product_Analysis)
-
----
-
-### 🏦 Fintech Marketing Campaign Analysis
-**Domain:** FinTech / Marketing Analytics | **Tools:** SQL (AWS Athena), AWS S3, Python, Power BI
-
-- Analyzed UCI Bank Marketing dataset (45K+ records) to identify factors driving term deposit conversion
-- Architected a cloud analytics pipeline on AWS S3 (data lake) and AWS Athena (serverless SQL)
-- Executed SQL-first analysis using CTEs, window functions, and aggregations across demographic and behavioral segments
-- Delivered numbered business recommendations on optimal contact windows and high-propensity customer profiles
-
-👉 [View Project](https://github.com/Meenansh-Chauhan/Fintech-Marketing-Campaign-Analysis)
 
 ---
 

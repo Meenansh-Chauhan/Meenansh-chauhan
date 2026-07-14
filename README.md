@@ -65,7 +65,7 @@ Currently targeting **Product Analyst, Data Analyst, and Business Analyst roles*
 - Identified 3 high-value customer segments with targeted retention strategies using SQL and Python
 - Built a Tableau dashboard visualizing RFM segment distribution and category-wise spending breakdown
 
-👉 [View Project](https://github.com/Meenansh-Chauhan/Credit-Card-Customer-Analysis)
+👉 [View Project](https://github.com/Meenansh-Chauhan/Credit-Card-Customer-Analysis-)
 
 ---
 

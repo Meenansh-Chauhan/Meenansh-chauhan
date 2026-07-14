@@ -1,8 +1,7 @@
 # Hi, I'm Meenansh Chauhan 👋
 
 🎓 B.E. Information Technology — UIET, Panjab University, Chandigarh (Batch 2027)
-📊 Aspiring Data Analyst | Business Analytics | FinTech & Financial Services
-
+📊 Aspiring Data Analyst | Product & Business Analytics | FinTech & Financial Services
 ---
 
 ## 🚀 About Me
@@ -11,7 +10,7 @@ I'm a data analytics enthusiast focused on solving real business problems throug
 
 I've built a **4-project analytics portfolio** spanning hospitality, e-commerce, fintech, and marketing analytics — using Python, PostgreSQL, AWS (S3 + Athena), Power BI, and Tableau. My work emphasizes business storytelling and actionable recommendations, not just data processing.
 
-Currently targeting **Data Analyst and Business Analyst roles** at fintech and financial services companies.
+Currently targeting **Product Analyst, Data Analyst, and Business Analyst roles** at fintech and financial services companies — with a particular interest in translating business requirements into technical delivery and driving end-to-end product analytics.
 
 ---
 
